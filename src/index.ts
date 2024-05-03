@@ -90,7 +90,7 @@ bot.onMessage(async(msg) => {
     try {
       console.log("Received message:", msg);
       // await sock!.readMessages([msg.key]);
-      // await bot.sendMessage("556284972385@s.whatsapp.net","Nova mensagem!!!");
+      // await bot.sendMessage("5562849.......@s.whatsapp.net","Nova mensagem!!!");
     } catch (error) {
       console.log("Error while accessing message:", error);
     }
